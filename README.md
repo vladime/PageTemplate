@@ -2,6 +2,7 @@
 Generate an HTML template for the blog
 
 It is nessesary to have a 'Files' folder in the folder with the script where all the pictures are;
+'Out.txt' needs to be there as well; 
 
 Do not forget to put the header:
 
