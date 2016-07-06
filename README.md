@@ -1,2 +1,2 @@
 # PageTemplate
-Generation HTML template for the blog
+Generate an HTML template for the blog
